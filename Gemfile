@@ -33,7 +33,7 @@ gem 'koala'
 gem 'omniauth-facebook'
 
 # Performance and Exception management
-gem 'airbrake'
+#gem 'airbrake'
 gem 'newrelic_rpm'
 gem 'newrelic_moped'
 
